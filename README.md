@@ -1,6 +1,5 @@
 # VueWebTest
 
-(The url for the task2 is 404 NOT FOUND so I just finished the first task)
 
 1.Please make sure you can open the give fontend pages on https://github.com/tookit/vue-material-admin.
 
