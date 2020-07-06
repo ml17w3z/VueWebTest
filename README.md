@@ -1,5 +1,5 @@
 # VueWebTest
-
+This is a simple demo of selenium+cucumber automation test, which is commonly used in BDD.
 
 1.Please make sure you can open the give fontend pages on https://github.com/tookit/vue-material-admin.
 
